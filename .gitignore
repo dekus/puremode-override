@@ -1,0 +1,47 @@
+# Build output
+bin/
+obj/
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.exp
+*.lib
+*.res
+
+# Visual Studio project files (excluded from repo)
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.aps
+Debug/
+Release/
+x64/
+x86/
+Win32/
+
+# Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
