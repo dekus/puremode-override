@@ -1,4 +1,4 @@
-# pure-mode-override
+# puremode-override
 
 FiveM `sv_pureLevel` client-side override with a modern Win32 GUI.
 
